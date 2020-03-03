@@ -1,3 +1,8 @@
+
+'''
 Hej siri
 Hvordan går det i dag?
-Håber det her virker :')
+Håber det her virker :') 
+'''
+def myfun(x)
+    print('hello')
