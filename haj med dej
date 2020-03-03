@@ -1,5 +1,11 @@
-Hej Aia! 
-Hyggeligt at jeg måtte komme forbi! 
-Det er en meget smuk mappe du har! 
-Gid jeg kunne lave en så flot mappe...
-xD
+#Hej Aia! 
+#Hyggeligt at jeg måtte komme forbi! 
+#Det er en meget smuk mappe du har! 
+#Gid jeg kunne lave en så flot mappe...
+#xD
+
+def f(x):
+    y=x**2
+    print(y)
+
+f(2)
